@@ -19,10 +19,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang='ko'>
-      <meta
-        name='google-site-verification'
-        content='lcZ222Q8BLWjANKQYJVaGUK6DMTeHV8g2gKtov5xdy8'
-      />
       <body className='max-w-screen-xl mx-auto'>
         <Header />
         {children}
